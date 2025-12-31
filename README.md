@@ -238,33 +238,6 @@ def setup_reminders(self):
     check_reminders()
 ```
 
-## 🤝 贡献指南
-
-我们欢迎所有热爱AI和猫娘的开发者加入！喵~
-
-### 如何贡献
-1. **Fork 本仓库** - 点击右上角的Fork按钮
-2. **创建功能分支** - `git checkout -b feature/amazing-feature`
-3. **提交更改** - `git commit -m 'Add amazing feature'`
-4. **推送分支** - `git push origin feature/amazing-feature`
-5. **开启 Pull Request** - 我们会尽快审查你的代码
-
-### 开发规范
-- 遵循 PEP 8 代码风格
-- 添加适当的注释和文档
-- 为新功能编写测试用例
-- 确保向后兼容性
-
-## 📄 许可证
-
-本项目采用 **MIT 许可证** - 查看 [LICENSE](LICENSE) 文件了解详情。
-
-简单来说：
-- ✅ 可以自由使用、复制、修改、合并、发布
-- ✅ 可以用于商业项目
-- ✅ 只需保留原许可证声明
-- ❌ 不提供任何担保
-
 ## 🙏 致谢
 
 感谢以下项目和服务的支持：
@@ -299,13 +272,6 @@ python ai_desk_pet_catgirl.py
 **Made with ❤️ (and lots of 喵~) for all the AI desktop companion enthusiasts.**
 
 </div>
-
-## 📞 支持与反馈
-
-- 🐛 **问题报告**：[GitHub Issues]
-- 💡 **功能请求**：通过 Issue 提交你的创意
-- 🔧 **代码贡献**：提交 Pull Request 帮助我们改进
-- 💬 **社区讨论**：加入我们的 Discord 频道（建设中）
 
 **温馨提示**：请合理使用 DeepSeek API，注意 API 调用频率和成本控制。  
 与猫娘的每一次对话都是特别的，珍惜这些美好的互动时光吧喵~ 🐱💕
